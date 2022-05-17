@@ -9,7 +9,7 @@ Proyecto del curso de Data Science en BEDU, Fase 3 Modulo 1: Análisis de Datos 
 - García Ruiz Diana Isabel
 - Ortega Estrada Ismael
 - Pizano Ocampo Aranza Nayeli
-- Sánchez Loperena Ruben
+- **Sánchez Loperena Ruben**
 
 ## ❤️ Enfermedades Cardiovasculares
 
@@ -32,11 +32,19 @@ El riesgo cardiovascular se define como la probabilidad de padecer un evento car
 
 ## 📄 Dataset:
 
+https://raw.githubusercontent.com/RubenD-hub/Proyecto_Analisis_de_datos_Python/main/Files/enfermedades_cardiovasculares.csv
+
 ## 🧹 Limpieza del Dataset:
+
+https://github.com/RubenD-hub/Proyecto_Analisis_de_datos_Python/blob/main/limpieza_dataset.ipynb
 
 ## 📁 Documentación del Dataset:
 
+https://github.com/RubenD-hub/Proyecto_Analisis_de_datos_Python/blob/main/Documentaci%C3%B3n%20-%20Fase%20III%20-%20Proyecto%201.pdf
+
 ## 🔍 Analisis de Datos con Python de nuestro Dataset:
+
+https://github.com/RubenD-hub/Proyecto_Analisis_de_datos_Python/blob/main/analisis_de_datos_con_python.ipynb
 
 ## 👨‍🏫 Presentaciones en Google Slides del proyecto:
 
